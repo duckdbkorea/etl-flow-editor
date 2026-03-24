@@ -1,0 +1,23 @@
+# 의존성
+node_modules/
+
+# 빌드 결과물
+dist/
+dist-ssr/
+
+# 환경 변수 (DB 패스워드 등 민감 정보)
+.env
+.env.local
+.env.*.local
+
+# 에디터 설정
+.vscode/
+.idea/
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# 로그
+*.log
+npm-debug.log*
